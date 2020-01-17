@@ -7,7 +7,7 @@ import math
 import time
 
 '''here we are tracking out blue color and mouse cursor will follow it,there is golden color also and when we get both color nearby it clicks where the pointer is.
-i used it two colour glue tapes and wear it on my fingers and now whenever i move my fingers it mouse moves with it'''
+i used it two colour glue tapes and wear it on my fingers and now whenever you move my fingers it mouse moves with it'''
 
 lower_blue = np.array([90,130,130])
 upper_blue = np.array([100,255,255])
